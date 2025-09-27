@@ -1,4 +1,5 @@
-Example 1: Harry Potter Quiz
+# Example 1: Harry Potter Quiz
+~~~
 Welcome to the Harry Potter quiz! This quiz will assess if you are a true fan of the Harry Potter series.
 
 1. What was the name of Mr. Crouch's house elf? Please enter a letter.
@@ -66,8 +67,10 @@ You got 5/10 questions right--
 Pretty good, but your Harry Potter knowledge needs some work.
 
 Thanks for taking the Harry Potter quiz!
+~~~
 
-Example 2: Pokemon Quiz
+# Example 2: Pokemon Quiz
+~~~
 Welcome to the Pokemon quiz!
 
 1) How many Pokemon exist in the Kanto regional Pokedex? Please enter a character a-e.
@@ -182,3 +185,4 @@ Please answer 1 for true and 0 for false.
 
 1: Correct, 2: Incorrect, 3: Correct, 4: Incorrect, 5: Correct, 6: Correct, 7: Correct, 8: Correct, 9: Correct
 Wow, you definitely are a true fan of Silicon Valley with a score of 8.
+~~~
